@@ -1,1 +1,2 @@
 This is to practise framework building. 
+I have made a framework and added two test cases.
