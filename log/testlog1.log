@@ -1,0 +1,264 @@
+2021-02-28 00:15:41,882 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-02-28 00:15:41,941 [main] INFO ebanking - Tring to log in user with user ID: mngr310737
+2021-02-28 00:15:42,148 [main] INFO ebanking - Password entered
+2021-02-28 00:15:44,460 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-02-28 21:50:09,157 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-02-28 21:50:09,173 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-02-28 21:50:09,326 [main] INFO ebanking - Password entered
+2021-02-28 21:50:11,483 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-02-28 23:15:00,486 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-02-28 23:15:00,522 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-02-28 23:15:00,704 [main] INFO ebanking - Password entered
+2021-02-28 23:15:02,677 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-01 00:27:46,563 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:27:46,590 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:28:03,470 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:28:03,498 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:30:21,393 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:30:21,426 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:34:35,006 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:34:35,040 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:37:31,283 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:37:31,312 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:38:41,347 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:38:41,368 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:38:41,543 [main] INFO ebanking - Password entered
+2021-03-01 00:38:43,494 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-01 00:43:05,493 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:43:05,511 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 00:43:05,662 [main] INFO ebanking - Password entered
+2021-03-01 00:43:07,712 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-01 00:43:24,395 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 00:43:24,439 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 01:09:44,631 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 01:09:44,653 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 01:09:45,721 [main] INFO ebanking - Password entered
+2021-03-01 01:09:46,169 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: FAILED
+2021-03-01 11:40:40,638 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 11:40:40,675 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 11:40:40,931 [main] INFO ebanking - Password entered
+2021-03-01 11:40:43,699 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-01 12:00:43,162 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:00:43,183 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:00:43,332 [main] INFO ebanking - Password entered
+2021-03-01 12:15:26,982 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:15:27,002 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:15:27,163 [main] INFO ebanking - Password entered
+2021-03-01 12:16:49,284 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:16:49,300 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:16:49,453 [main] INFO ebanking - Password entered
+2021-03-01 12:18:19,809 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:18:19,824 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:18:19,972 [main] INFO ebanking - Password entered
+2021-03-01 12:34:42,851 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:34:42,871 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:34:43,051 [main] INFO ebanking - Password entered
+2021-03-01 12:58:20,481 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 12:58:20,500 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 12:58:20,688 [main] INFO ebanking - Password entered
+2021-03-01 13:00:37,691 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-01 13:00:37,710 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-01 13:00:37,875 [main] INFO ebanking - Password entered
+2021-03-01 13:00:40,222 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 15:58:35,571 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 15:58:35,589 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 15:58:35,745 [main] INFO ebanking - Password entered
+2021-03-02 15:58:37,370 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 15:58:44,807 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 15:58:44,808 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 15:58:44,921 [main] INFO ebanking - Password entered
+2021-03-02 15:58:44,997 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 15:58:47,431 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 15:58:47,432 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 15:58:47,533 [main] INFO ebanking - Password entered
+2021-03-02 15:58:47,592 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 15:58:49,954 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 15:58:49,956 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 15:58:50,052 [main] INFO ebanking - Password entered
+2021-03-02 15:58:50,117 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 15:58:52,882 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 15:58:52,883 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:32:22,794 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:32:22,847 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:32:23,265 [main] INFO ebanking - Password entered
+2021-03-02 17:32:25,735 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:32:34,640 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:32:34,641 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:32:34,882 [main] INFO ebanking - Password entered
+2021-03-02 17:32:34,967 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:32:37,525 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:32:37,527 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:32:37,831 [main] INFO ebanking - Password entered
+2021-03-02 17:32:37,926 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:32:39,785 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:32:39,787 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:32:39,997 [main] INFO ebanking - Password entered
+2021-03-02 17:32:40,084 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:32:42,005 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:32:42,007 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:42:25,312 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:42:25,397 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:42:25,902 [main] INFO ebanking - Password entered
+2021-03-02 17:42:28,320 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:42:37,684 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:42:37,685 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:42:37,839 [main] INFO ebanking - Password entered
+2021-03-02 17:42:37,938 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:42:40,425 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:42:40,426 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:42:40,635 [main] INFO ebanking - Password entered
+2021-03-02 17:42:40,729 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:42:43,962 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:42:43,965 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:42:44,270 [main] INFO ebanking - Password entered
+2021-03-02 17:42:44,338 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:42:46,668 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:42:46,670 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:46:07,511 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:46:07,588 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:46:07,857 [main] INFO ebanking - Password entered
+2021-03-02 17:46:10,408 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:46:19,348 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:46:19,350 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:46:19,762 [main] INFO ebanking - Password entered
+2021-03-02 17:46:19,919 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:46:35,097 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:46:35,098 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:46:35,376 [main] INFO ebanking - Password entered
+2021-03-02 17:46:35,450 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:46:48,782 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:46:48,785 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:46:49,114 [main] INFO ebanking - Password entered
+2021-03-02 17:46:49,232 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:47:02,641 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:47:02,643 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:49:57,863 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:49:57,931 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:49:58,237 [main] INFO ebanking - Password entered
+2021-03-02 17:50:00,614 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:50:09,530 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:50:09,533 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:50:09,823 [main] INFO ebanking - Password entered
+2021-03-02 17:50:10,456 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:50:15,561 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:50:15,562 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:50:15,805 [main] INFO ebanking - Password entered
+2021-03-02 17:50:16,384 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:50:22,172 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:50:22,173 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:50:22,334 [main] INFO ebanking - Password entered
+2021-03-02 17:50:23,029 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:50:28,955 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:50:28,957 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:54:24,987 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:54:25,059 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:54:25,497 [main] INFO ebanking - Password entered
+2021-03-02 17:54:27,789 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:54:36,284 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:54:36,287 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:54:36,287 [main] INFO ebanking - 
+2021-03-02 17:54:36,525 [main] INFO ebanking - Password entered
+2021-03-02 17:54:37,255 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:54:43,287 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:54:43,288 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:54:43,289 [main] INFO ebanking - 
+2021-03-02 17:54:43,465 [main] INFO ebanking - Password entered
+2021-03-02 17:54:44,057 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:54:51,082 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:54:51,086 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:54:51,090 [main] INFO ebanking - 
+2021-03-02 17:54:51,392 [main] INFO ebanking - Password entered
+2021-03-02 17:54:51,981 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:54:57,161 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:54:57,163 [main] INFO ebanking - Trying to log in user with user ID: null
+2021-03-02 17:54:57,163 [main] INFO ebanking - null
+2021-03-02 17:57:56,994 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:57:57,029 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 17:57:57,331 [main] INFO ebanking - Password entered
+2021-03-02 17:57:59,987 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 17:58:03,010 [main] INFO ebanking - Number of users: 4
+2021-03-02 17:58:03,044 [main] INFO ebanking - 2
+2021-03-02 17:58:08,562 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:58:08,562 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:58:08,562 [main] INFO ebanking - 
+2021-03-02 17:58:08,672 [main] INFO ebanking - Password entered
+2021-03-02 17:58:09,262 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:58:15,101 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:58:15,102 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:58:15,102 [main] INFO ebanking - 
+2021-03-02 17:58:15,190 [main] INFO ebanking - Password entered
+2021-03-02 17:58:15,754 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:58:20,753 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:58:20,755 [main] INFO ebanking - Trying to log in user with user ID: 
+2021-03-02 17:58:20,755 [main] INFO ebanking - 
+2021-03-02 17:58:20,861 [main] INFO ebanking - Password entered
+2021-03-02 17:58:21,432 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID:  Status: PASSED
+2021-03-02 17:58:27,033 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 17:58:27,034 [main] INFO ebanking - Trying to log in user with user ID: null
+2021-03-02 17:58:27,034 [main] INFO ebanking - null
+2021-03-02 18:03:36,011 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:03:36,035 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 18:03:36,224 [main] INFO ebanking - Password entered
+2021-03-02 18:03:38,697 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 18:03:40,992 [main] INFO ebanking - Number of users: 4
+2021-03-02 18:03:41,023 [main] INFO ebanking - 2
+2021-03-02 18:03:45,951 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:03:45,951 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 18:03:45,951 [main] INFO ebanking - upAsYgA
+2021-03-02 18:03:46,110 [main] INFO ebanking - Password entered
+2021-03-02 18:03:48,963 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID: mngr310737 Status: PASSED
+2021-03-02 18:03:55,240 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:03:55,241 [main] INFO ebanking - Trying to log in user with user ID: mngr300632
+2021-03-02 18:03:55,241 [main] INFO ebanking - absklps
+2021-03-02 18:03:55,363 [main] INFO ebanking - Password entered
+2021-03-02 18:04:00,887 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:04:00,888 [main] INFO ebanking - Trying to log in user with user ID: mngr311632
+2021-03-02 18:04:00,889 [main] INFO ebanking - atEjaqa
+2021-03-02 18:04:01,001 [main] INFO ebanking - Password entered
+2021-03-02 18:04:04,951 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID: mngr311632 Status: PASSED
+2021-03-02 18:04:11,471 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:04:11,472 [main] INFO ebanking - Trying to log in user with user ID: null
+2021-03-02 18:04:11,472 [main] INFO ebanking - null
+2021-03-02 18:05:52,310 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:05:52,328 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 18:05:52,500 [main] INFO ebanking - Password entered
+2021-03-02 18:05:54,622 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-02 18:05:57,054 [main] INFO ebanking - Number of users: 4
+2021-03-02 18:05:57,097 [main] INFO ebanking - 2
+2021-03-02 18:06:01,684 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:06:01,685 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-02 18:06:01,685 [main] INFO ebanking - upAsYgA
+2021-03-02 18:06:01,836 [main] INFO ebanking - Password entered
+2021-03-02 18:06:04,565 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID: mngr310737 Status: PASSED
+2021-03-02 18:06:10,460 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:06:10,461 [main] INFO ebanking - Trying to log in user with user ID: mngr300632
+2021-03-02 18:06:10,461 [main] INFO ebanking - absklps
+2021-03-02 18:06:10,576 [main] INFO ebanking - Password entered
+2021-03-02 18:06:31,572 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:06:31,575 [main] INFO ebanking - Trying to log in user with user ID: mngr311632
+2021-03-02 18:06:31,575 [main] INFO ebanking - atEjaqa
+2021-03-02 18:06:31,694 [main] INFO ebanking - Password entered
+2021-03-02 18:06:34,290 [main] INFO ebanking - Test case: TC_LoginMultiple_002 for userID: mngr311632 Status: PASSED
+2021-03-02 18:06:40,481 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-02 18:06:40,482 [main] INFO ebanking - Trying to log in user with user ID: null
+2021-03-02 18:06:40,482 [main] INFO ebanking - null
+2021-03-03 15:28:14,174 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-03 15:28:14,196 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-03 15:28:14,343 [main] INFO ebanking - Password entered
+2021-03-03 15:28:16,379 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-03 16:14:02,459 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-03 16:14:02,477 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-03 16:14:02,624 [main] INFO ebanking - Password entered
+2021-03-03 16:14:04,486 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-03 16:30:00,898 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-03 16:30:00,918 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-03 16:30:01,073 [main] INFO ebanking - Password entered
+2021-03-03 16:30:03,367 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-05 10:50:39,727 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-05 10:50:39,756 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-05 10:50:40,053 [main] INFO ebanking - Password entered
+2021-03-05 10:50:42,004 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED
+2021-03-05 11:28:18,885 [main] INFO ebanking - Opening up: http://demo.guru99.com/v4/
+2021-03-05 11:28:18,907 [main] INFO ebanking - Trying to log in user with user ID: mngr310737
+2021-03-05 11:28:19,236 [main] INFO ebanking - Password entered
+2021-03-05 11:28:21,061 [main] INFO ebanking - Test case: TC_LOGIN_001 Status: PASSED

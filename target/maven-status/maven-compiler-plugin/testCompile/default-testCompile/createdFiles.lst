@@ -1,0 +1,12 @@
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\pageObjects\HomePage.class
+com\inetBanking\utilities\Screenshot.class
+com\inetBanking\utilities\Reporting.class
+com\inetBanking\testcases\TC_LoginMultiple_002.class
+com\inetBanking\testcases\TC_Login_001.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testcases\BaseClass.class
+com\inetBanking\pageObjects\NewCustomer.class
+com\inetBanking\testcases\TC_CreateNewCustomer_003.class
+com\inetBanking\utilities\RandomDataGen.class
